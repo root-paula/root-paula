@@ -24,15 +24,10 @@
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=root-paula&show_icons=true&theme=dracula&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=root-paula&theme=dracula&hide_border=true)
 ![Activity Graph](https://github-profile-maker.vercel.app/api/activity?username=root-paula&theme=dracula&hide_border=false)
 ![GitHub Trophies](https://github-profile-maker.vercel.app/api/trophies?username=root-paula&theme=radical&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false)
-
-
-</div>
 
 ## :octocat: Connect with Me
 
@@ -47,6 +42,5 @@
 ![Meme](https://dev-humor.vercel.app/api?type=horizontal&theme=dracula)
 
 ## 🐍 Commits
-
 ![Snake Animation](https://raw.githubusercontent.com/root-paula/root-paula/output/snake.svg)
 
