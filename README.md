@@ -1,9 +1,5 @@
 
 [![ipaulaa-banner.png](https://i.postimg.cc/VkdWBd5K/ipaulaa-banner.png)](https://postimg.cc/sMCW3fYW)
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9683ec&center=true&vCenter=true&width=435&height=30&lines=Python%20Developer%3BFull%20Stack%20Developer%3BAlways%20Learning" alt="Typing SVG" />
-</div>
-
-</div>
 
 ## 👩🏻‍💻 About Me
 
