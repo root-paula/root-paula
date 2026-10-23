@@ -1,9 +1,5 @@
 
-<div align="center">
-
-# Hi, I'm Paula! 👋 🌎
-
-<div align="center">
+[![ipaulaa-banner.png](https://i.postimg.cc/VkdWBd5K/ipaulaa-banner.png)](https://postimg.cc/sMCW3fYW)
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9683ec&center=true&vCenter=true&width=435&height=30&lines=Python%20Developer%3BFull%20Stack%20Developer%3BAlways%20Learning" alt="Typing SVG" />
 </div>
 
@@ -17,14 +13,14 @@
 - 📚 I enjoy studying alongside fellow learners and participating in online study sessions.
 - 🌱 Always exploring new technologies, improving my skills, and growing as a developer.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages & Markup**
+### 💅🏻 Languages & Markup 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-**Tools & Development Environment**
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
